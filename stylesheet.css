@@ -11,12 +11,14 @@ h1{
   font-family: 'Alex Brush', cursive;
   font-style: italic;
   color: #A5F9CB;
+  float: right;
 
 }
 h3{
-  font-style: bold;
-  color: #FFFFFF 
+  color: #FFFFFF; 
+  float: right;
 }
 p{
-  color: #FFFFFF 
+  color: #FFFFFF;
+  float: right;
 }
