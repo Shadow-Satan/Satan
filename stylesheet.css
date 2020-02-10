@@ -3,14 +3,15 @@
 
 body {
   font-family: 'Caveat', cursive;
+  background-image: url("https://github.com/Shadow-Satan/Satan/blob/master/s0hYZ.png?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1{
   font-family: 'Alex Brush', cursive;
   font-style: italic;
   color: #A5F9CB;
-  background-image: url("https://github.com/Shadow-Satan/Satan/blob/master/s0hYZ.png?raw=true");
-  background-repeat: no-repeat;
-  background-size: cover;
+
 }
 h3{
   font-style: bold;
