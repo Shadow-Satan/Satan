@@ -13,12 +13,12 @@ h1{
   color: #A5F9CB;
   float: right;
   animation-name: h1yay;
-  animation-duration: 2s;
+  animation-duration: 8s;
   animation-interation-count: infinite;
 
 }
 @keyframes h1yay{
-  0% {color: #A5F9CB;}
+  0% {color: #9279c8;}
   50% { color: green;}
   100%{ color: #9279c8;}
 
