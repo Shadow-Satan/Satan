@@ -12,8 +12,18 @@ h1{
   font-style: italic;
   color: #A5F9CB;
   float: right;
+  animation-name: h1yay;
+  animation-duration: 2s;
+  animation-interation-count: infinite;
 
 }
+@keyframes h1yay{
+  0% {color: #A5F9CB;}
+  50% { color: green;}
+  100%{ color: #9279c8;}
+
+}
+
 h3{
   color: #FFFFFF; 
   float: right;
