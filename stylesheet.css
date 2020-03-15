@@ -14,7 +14,7 @@ h1{
   float: right;
   animation-name: h1yay;
   animation-duration: 8s;
-  animation-interation-count: infinite;
+  animation-iteration-count: infinite;
 
 }
 @keyframes h1yay{
